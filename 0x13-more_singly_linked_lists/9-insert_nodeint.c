@@ -1,17 +1,17 @@
 #include "lists.h"
 
 /**
- * insert_nodeint_at_index - inserts a new node in a linked list,
- * at a given position
- * @head: pointer to the first node in the list
- * @idx: index where the new node is added
- * @n: data to insert in the new node
+ * insert_nodeint_at_index - inserts new node in linked list,
+ * at given position
+ * @head: pointer to first node in list
+ * @idx: index where new node is added
+ * @n: data to insert in new node
  *
- * Return: pointer to the new node, or NULL
+ * Return: pointer to new node, or NULL
  */
 listint_t *insert_nodeint_at_index(listint_t **head, unsigned int idx, int n)
 {
-	unsigned int i;
+	unsigned int h;
 	listint_t *new;
 	listint_t *temp = *head;
 
@@ -29,9 +29,9 @@ listint_t *insert_nodeint_at_index(listint_t **head, unsigned int idx, int n)
 		return (new);
 	}
 
-	for (i = 0; temp && i < idx; i++)
+	for (h = 0; temp && h < idx; h++)
 	{
-		if (i == idx - 1)
+		if (h == idx - 1)
 		{
 			new->next = temp->next;
 			temp->next = new;

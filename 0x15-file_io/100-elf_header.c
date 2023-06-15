@@ -18,9 +18,9 @@ void prdamentyw(unsigned long int e_entry, unsigned char *e_ident);
 void closedfuckelf(int elf);
 
 /**
- * magicletters - plnvbnioqwjfiowqjgfioqjfqwfjioqwfjowq.
- * @e_ident: qlkwmfjoilwvnhjvqnfgiwqiwqpofjq.
- * Description: poljqwfiogjqwbcmjkgiofjqwfijqwofidj.
+ * magicletters - piowqjgfioqjfqwfjioqwfjowq.
+ * @e_ident: qlkwmlwvnhjvqnfgiwqiwqpofjq.
+ * Description: poljqwfiogjqwbofidj.
  */
 
 void magicletters(unsigned char *e_ident)
@@ -48,9 +48,9 @@ void magicletters(unsigned char *e_ident)
 }
 
 /**
- * fcheklof - oiqwfdhuiqwhguiqwhfiuvbkghjgqwfhwiqu.
- * @e_ident: poiqiegjioqjfiowqdjfawigfujkgjqogf.
- * Description: qpolwkfjriojkgkygugiqwnjgioqwjgioqw.
+ * fcheklof - oiqwfdhqbkghjgqwfhwiqu.
+ * @e_ident: poiqiegjioawigfujkgjqogf.
+ * Description: qpolwkfjriojkgkygjgioqw.
  */
 
 void fcheklof(unsigned char *e_ident)
@@ -73,8 +73,8 @@ void fcheklof(unsigned char *e_ident)
 
 
 /**
- * predatax - iowqjfdioqwfjgiytuhgkgjkoiwqfgjqiofw.
- * @e_ident: dcvlplkcxvmjiojfiojfiqwkvjhkhvjvhjfdo.
+ * predatax - iowqjfdioqwfgjqiofw.
+ * @e_ident: dcvlplkcxvmjiojfvjvhjfdo.
  */
 
 void predatax(unsigned char *e_ident)
@@ -98,8 +98,8 @@ void predatax(unsigned char *e_ident)
 }
 
 /**
- * thepreclass - lkqwnjgioqwjgioqwjkvjhkvhkfqwjfiowqjfqw.
- * @e_ident: ioqfwjiowqfhgkhjvgjkejgiojqwjiofqwfd.
+ * thepreclass - lkgioqwjkvjhkvhkfqwjfiowqjfqw.
+ * @e_ident: ioqfwjgiojqwjiofqwfd.
  */
 
 void thepreclass(unsigned char *e_ident)
@@ -124,8 +124,8 @@ void thepreclass(unsigned char *e_ident)
 }
 
 /**
- * provisiion - qwfpoqfjiojioewjuhcjghjgiojqwoic.
- * @e_ident: opiqwdjiuowqfiuhwuigkhvjjkvhjkhquiwdf.
+ * provisiion - qwfpoqfjiojiogiojqwoic.
+ * @e_ident: opiqwdjiuvjjkvhjkhquiwdf.
  */
 
 void provisiion(unsigned char *e_ident)
@@ -145,8 +145,8 @@ void provisiion(unsigned char *e_ident)
 }
 
 /**
- * theosibaq - loiwqdjiowqigfkhjkhqwuigfhqwkgvfjkjkgjkjuif.
- * @e_ident: poijdwqiojwqiodjqiowhjkhhjvkfioqwfn.
+ * theosibaq - loiwhqwkgvfjkjkgjkjuif.
+ * @e_ident: poijdwqijkhhjvkfioqwfn.
  */
 
 void theosibaq(unsigned char *e_ident)
@@ -191,8 +191,8 @@ void theosibaq(unsigned char *e_ident)
 }
 
 /**
- * theabsencer - qwlkdiowqfjgioqwfjiwqlhhklhklhjjfwqiofjwq.
- * @e_ident: oihqwfuihqwiufkhjkkhjkhjkhuqwihfqwuibfndhqwuinf.
+ * theabsencer - qwlkdiowqfjgioqiofjwq.
+ * @e_ident: oihqwfuihqwfndhqwuinf.
  */
 
 void theabsencer(unsigned char *e_ident)
@@ -203,9 +203,9 @@ void theabsencer(unsigned char *e_ident)
 }
 
 /**
- * proqtypei - ioqwhguiqwugfihqwufgfjgfjgihqwfui.
- * @e_type: jqwejqwoipdjigfhjgfjfgowqdqwd.
- * @e_ident: ioqfwfgjgfhjjioqwfiojqiwofjqw.
+ * proqtypei - ioqwhggfjgfjgihqwfui.
+ * @e_type: jqwejqwoipgfjfgowqdqwd.
+ * @e_ident: ioqjioqwfiojqiwofjqw.
  */
 
 void proqtypei(unsigned int e_type, unsigned char *e_ident)
@@ -238,9 +238,9 @@ void proqtypei(unsigned int e_type, unsigned char *e_ident)
 }
 
 /**
- * prdamentyw - qowlkijfdqiouwfiqhyyuduhgkjwiogfoqwfoiw
- * @e_entry: etrjtykl678ukyugjghjkykytgerffgfhkfgdbdftjytkwef
- * @e_ident: qwferjhrtjefwefrejhtyyukrewfgfjgfjgjfkghkgfjghgfjfwef
+ * prdamentyw - qiokhkjkjgfoqwfoiw
+ * @e_entry: etrgjghjkykytgerffgfhkfgdbdftjytkwef
+ * @e_ident: qwferjhrtjefwefhkgfjghgfjfwef
  */
 
 void prdamentyw(unsigned long int e_entry, unsigned char *e_ident)
@@ -267,9 +267,9 @@ void prdamentyw(unsigned long int e_entry, unsigned char *e_ident)
 }
 
 /**
- * closedfuckelf - wqgertjgfjgfjyrtjkrwadsaghirrturyjtr
- * @elf: rthjtykjsdfxdgbtgrfjtygfjghjkyyuiriutkg
- * Description: qwdfwegsxcvxzcafgwehrgfjgfjryutjrtyj
+ * closedfuckelf - wqgertjgfjgfjturyjtr
+ * @elf: rthjtykfjghjkyyuiriutkg
+ * Description: qwdfwgfjgfjryutjrtyj
  */
 
 void closedfuckelf(int elf)
@@ -284,9 +284,9 @@ void closedfuckelf(int elf)
 }
 
 /**
- * main - wrjhytkluiypuiktrfdhfdhgsdfasdfqwaf
- * @argc: rtjtyktykuyipluiefasecdfdgherwytfqwadf
- * @argv: wqdfwegerwgdxbrtfjtyukuylyuiluidfhrehel
+ * main - uiypuiktrfdhfdhgsdfasdfqwaf
+ * @argc: rtjtyktdgherwytfqwadf
+ * @argv: wqdfwtyukuylyuiluidfhrehel
  * Return: Just a zero and exith4yrtyhrej the program.
  */
 
